@@ -4,3 +4,4 @@ Más contenido para mostrar como no se afectar las otras ramas
 
 
 skjhdlks
+Mostrar comando pull
