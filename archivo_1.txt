@@ -1,0 +1,1 @@
+Contenido de ejemplo para mostrar comandos básicos de git
